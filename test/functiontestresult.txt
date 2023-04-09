@@ -1,0 +1,77 @@
+Functions
+ [x] Sanitize
+ [x] Is post
+ [x] Is get
+ [x] Is user authenticated
+ [x] Authenticate user with data set #0
+ [x] Authenticate user with data set #1
+ [x] Authenticate user with data set #2
+ [x] Authenticate user with data set #3
+ [x] Get logged in user with data set #0
+ [x] Get logged in user with data set #1
+ [x] Get logged in user with data set #2
+ [x] Is user exists with data set #0
+ [x] Is user exists with data set #1
+ [x] Is user exists with data set #2
+ [x] Is user exists with data set #3
+ [x] Validate login inputs with data set #0
+ [x] Validate login inputs with data set #1
+ [x] Validate login inputs with data set #2
+ [x] Validate login inputs with data set #3
+ [x] Validate login inputs with data set #4
+ [x] Validate signup inputs with data set #0
+ [x] Validate signup inputs with data set #1
+ [x] Validate signup inputs with data set #2
+ [x] Validate signup inputs with data set #3
+ [x] Validate signup inputs with data set #4
+ [x] Is iraqi phone number with data set #0
+ [x] Is iraqi phone number with data set #1
+ [x] Is iraqi phone number with data set #2
+ [x] Is iraqi phone number with data set #3
+ [x] Is iraqi phone number with data set #4
+ [x] Is iraqi phone number with data set #5
+ [x] Is iraqi phone number with data set #6
+ [x] Is iraqi phone number with data set #7
+ [x] Is iraqi phone number with data set #8
+ [x] Is iraqi phone number with data set #9
+ [x] Is iraqi phone number with data set #10
+ [x] Is iraqi phone number with data set #11
+ [x] Is iraqi phone number with data set #12
+ [x] Is iraqi phone number with data set #13
+ [x] Is iraqi phone number with data set #14
+ [x] Is iraqi phone number with data set #15
+ [x] Is iraqi phone number with data set #16
+ [x] Is iraqi phone number with data set #17
+ [x] Is iraqi phone number with data set #18
+ [x] Is iraqi phone number with data set #19
+ [x] Is iraqi phone number with data set #20
+ [x] Is iraqi phone number with data set #21
+ [x] Is iraqi phone number with data set #22
+ [x] Is iraqi phone number with data set #23
+ [x] Is iraqi phone number with data set #24
+ [x] Is iraqi phone number with data set #25
+ [x] Is iraqi phone number with data set #26
+ [x] Is iraqi phone number with data set #27
+ [x] Is iraqi phone number with data set #28
+ [x] Is iraqi phone number with data set #29
+ [x] Is iraqi phone number with data set #30
+ [x] Is iraqi phone number with data set #31
+ [x] Is iraqi phone number with data set #32
+ [x] Email validation with data set #0
+ [x] Email validation with data set #1
+ [x] Email validation with data set #2
+ [x] Email validation with data set #3
+ [x] Email validation with data set #4
+ [x] Email validation with data set #5
+ [x] Email validation with data set #6
+ [x] Email validation with data set #7
+ [x] Email validation with data set #8
+ [x] Email validation with data set #9
+ [x] Email validation with data set #10
+ [x] Email validation with data set #11
+ [x] Email validation with data set #12
+ [x] Email validation with data set #13
+ [x] Email validation with data set #14
+ [x] Email validation with data set #15
+ [x] Email validation with data set #16
+
